@@ -37,7 +37,7 @@ export default function Home() {
             <div className="bg-gray-50 dark:bg-gray-900 p-6 rounded-lg">
               <div className="w-12 h-12 bg-sky-600 text-white rounded-full flex items-center justify-center font-bold text-xl mb-4">2</div>
               <h3 className="text-xl font-semibold mb-2">Car Selection</h3>
-              <p>We'll help you find and select the perfect vehicle based on your requirements from Japanese auctions.</p>
+              <p>We&apos;ll help you find and select the perfect vehicle based on your requirements from Japanese auctions.</p>
             </div>
             
             {/* Step 3 */}
@@ -96,7 +96,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2">Transparent Pricing</h3>
-              <p>Clear cost breakdown with no hidden fees, ensuring you understand exactly what you're paying for.</p>
+              <p>Clear cost breakdown with no hidden fees, ensuring you understand exactly what you&apos;re paying for.</p>
             </div>
             
             {/* Benefit 3 */}
@@ -118,7 +118,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-2">Hassle-Free Process</h3>
-              <p>We handle all paperwork, shipping, and customs clearance so you don't have to worry about the details.</p>
+              <p>We handle all paperwork, shipping, and customs clearance so you don&apos;t have to worry about the details.</p>
             </div>
           </div>
         </div>
@@ -155,7 +155,7 @@ export default function Home() {
               <svg xmlns="http://www.w3.org/2000/svg" className="h-10 w-10 text-sky-600 mb-4" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
               </svg>
-              <p className="mb-4 italic">After comparing several importers, I chose ZimImports for their professional approach. They guided me through each step of importing my Nissan X-Trail, and I couldn't be happier with the service.</p>
+              <p className="mb-4 italic">After comparing several importers, I chose ZimImports for their professional approach. They guided me through each step of importing my Nissan X-Trail, and I couldn&apos;t be happier with the service.</p>
               <div className="font-semibold">Farai M.</div>
               <div className="text-sm text-gray-600 dark:text-gray-400">Mutare, Zimbabwe</div>
             </div>
